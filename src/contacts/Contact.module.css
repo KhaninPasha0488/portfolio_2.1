@@ -1,0 +1,20 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+
+}
+.inputForm{
+    display: flex;
+    width:280px;
+
+}
+/*.butt{*/
+/*    width:60px;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+
+/*}*/
